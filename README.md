@@ -69,8 +69,8 @@ bin/magento urlrewrite:rebuild --help
   
 ## Requirements  
   
-- PHP: 7.0.x | 7.1.x  
-- Magento 2.1.x | 2.2.x  
+- PHP: 7.0.x | 7.1.x | 7.2.x | 7.3.x
+- Magento 2.1.x | 2.2.x | 2.3.x | 2.4.x
   
 Support  
 -------  
